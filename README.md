@@ -4,7 +4,7 @@
 
 - [x] Müzik Sistemleri
 - [x] Butonlu Embed Mesajlar
-- [x] Uygulama Komutları Destekler.
+- [x] Uygulama Komutları
 
 ## 🚨 Destek İçin
 

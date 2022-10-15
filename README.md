@@ -1,1 +1,11 @@
-# asd
+## Discord.js v14 Müzik Botu
+
+## 📑 Özellikler
+
+- [x] Müzik Sistemleri
+- [x] Butonlu Embed Mesajlar
+- [x] Uygulama Komutları Destekler.
+
+## 🚨 Destek İçin
+
+✈ Discord Sunucumuza Katıl: [Raven](https://discord.gg/altyapilar)# asd

@@ -1,4 +1,4 @@
-## Discord.js v14 Müzik Botu
+## Discord V14 Müzik Botu
 
 ## 📑 Özellikler
 

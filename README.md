@@ -8,4 +8,4 @@
 
 ## 🚨 Destek İçin
 
-✈ Discord Sunucumuza Katıl: [Raven](https://discord.gg/altyapilar)# asd
+✈ Discord Sunucumuza Katıl: [Raven](https://discord.gg/altyapilar)
